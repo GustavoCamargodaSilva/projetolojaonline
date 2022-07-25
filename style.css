@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+
+.header{
+    overflow: hidden;
+    color: white;
+    margin: auto;
+    width: 80%;
+    background: black;
+    padding: 15px;
+    font-size: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    color: white;
+}
+
+
+
+.menu{
+    list-style: none;
+    display: inline-block;
+    margin: 0;
+    color: white;
+    float: right;
+    
+    
+}
+li{
+    display: inline-block;
+    margin-left: 15px;
+
+}
+
+a:visited {
+    color:white;
+    text-decoration:none;
+  }
+
+.resenha{
+   background-color: black;
+}
+
+input{
+    padding: 10px;
+    float: right;
+    margin-top: 70px;
+    margin-right: 5px;
+    width: 350px;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+
+}
+.banner{
+    width: 100%;
+    background-size:contain;
+}
+ 
+
